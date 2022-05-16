@@ -1,0 +1,1 @@
+# den-diary.github.io
