@@ -1,5 +1,7 @@
 Privacy Policy
-Techno Den Molly built the Andiary app as [free/freemium/ad-supported/commercial] app. This SERVICE is provided by Techno Den Molly at no cost and is intended for use as is.
+
+
+Techno Den Molly built the My Diary app as [free/freemium/ad-supported/commercial] app. This SERVICE is provided by Techno Den Molly at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use [my/our] Service.
 
